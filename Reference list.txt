@@ -1,0 +1,57 @@
+Microsoft. (2023). ASP.NET | Open-source web framework for .NET. [online] Available at: https://dotnet.microsoft.com/en-us/apps/aspnet [Accessed 31 Aug. 2023].
+Mysql.com. (2023). MySQL. [online] Available at: https://www.mysql.com/ [Accessed 31 Aug. 2023].
+Slurms (2012). Remove grey border from Facebook lightbox pop up. [online] Stack Overflow. Available at: https://stackoverflow.com/questions/12345620/remove-grey-border-from-facebook-lightbox-pop-up/12345678#12345678 [Accessed 31 Aug. 2023].
+ajcvickers (2021). Overview of Entity Framework Core - EF Core. [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/ef/core/ [Accessed 31 Aug. 2023].
+Postman.com. (2023). Postman API Platform. [online] Available at: https://www.postman.com/ [Accessed 31 Aug. 2023].
+Swagger.io. (2023). REST API Documentation Tool | Swagger UI. [online] Available at: https://swagger.io/tools/swagger-ui/ [Accessed 31 Aug. 2023].
+adkinn (2023). Training. [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/training/ [Accessed 31 Aug. 2023].
+GitHub Docs. (2023). GitHub flow - GitHub Docs. [online] Available at: https://docs.github.com/en/get-started/quickstart/github-flow [Accessed 31 Aug. 2023].
+Gillis, A.S. (2020). REST API (RESTful API). [online] App Architecture. Available at: https://www.techtarget.com/searchapparchitecture/definition/RESTful-API [Accessed 31 Aug. 2023].
+Openai.com. (2023). OpenAI Platform. [online] Available at: https://platform.openai.com/docs/guides/gpt/chat-completions-api [Accessed 31 Aug. 2023].
+Microsoft.com. (2022). App Service — Build and Host Web Apps | Microsoft Azure. [online] Available at: https://azure.microsoft.com/en-us/products/app-service/ [Accessed 31 Aug. 2023].
+kcpitt (2021). Azure documentation. [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/azure/?product=popular [Accessed 31 Aug. 2023].
+GitHub Docs. (2023). GitHub Actions documentation - GitHub Docs. [online] Available at: https://docs.github.com/en/actions [Accessed 31 Aug. 2023].
+Alison.com. (2023). Alison. [online] Available at: https://alison.com/ [Accessed 31 Aug. 2023].
+Visual Studio. (2020). Visual Studio: IDE and Code Editor for Software Developers and Teams. [online] Available at: https://visualstudio.microsoft.com/ [Accessed 31 Aug. 2023].
+C-sharpcorner.com. (2023). Learn. [online] Available at: https://www.c-sharpcorner.com/learn [Accessed 31 Aug. 2023].
+Nwu.ac.za. (2023). eFundi. [online] Available at: https://efundi.nwu.ac.za/access/content/group/7b044a4a-843d-41da-8276-594123273082/Slides/04%20CMPG323%20-%20API%20Controllers%2010%20Aug.pdf [Accessed 31 Aug. 2023].
+Nwu.ac.za. (2023). Available at: https://efundi.nwu.ac.za/access/content/group/7b044a4a-843d-41da-8276-594123273082/Database%20script/EcoPowerSolutions%20DB%20Script%20cloud [Accessed 31 Aug. 2023].
+CMPG323 - IT Developments (2023). 10 Aug CMPG323 weekly virtual class API Controllers. YouTube. Available at: https://www.youtube.com/watch?v=kiSJGGy29fY [Accessed 31 Aug. 2023].
+CMPG323 - IT Developments (2023). 17 Aug CMPG323 weekly virtual class Cloud, deploy API. YouTube. Available at: https://www.youtube.com/watch?v=murThM9ATJA&t=2199s [Accessed 31 Aug. 2023].
+Nwu.ac.za. (2023). eFundi. [online] Available at: https://efundi.nwu.ac.za/access/content/group/7b044a4a-843d-41da-8276-594123273082/Slides/03%20CMPG323%20-%203%20Aug%20Coetzee%20API%20design.pdf [Accessed 31 Aug. 2023].
+View more posts (2020). [Python] Automating ASP.NET Core Web API Creation That Communicates With Your Database in 60 Seconds or Less. [online] The JPanda. Available at: https://thejpanda.com/2020/08/10/python-automating-asp-net-core-web-api-creation-that-communicates-with-your-database-in-60-seconds-or-less/ [Accessed 31 Aug. 2023].
+codemillmatt (2022). Publish an ASP.NET Core web API to Azure API Management with Visual Studio. [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/aspnet/core/tutorials/publish-to-azure-api-management-using-vs?view=aspnetcore-6.0 [Accessed 31 Aug. 2023].
+Muller, J. (2022). Join two entities in .NET Core, using lambda and Entity Framework Core - JD Bots. [online] JD Bots. Available at: https://jd-bots.com/2022/01/24/join-two-entities-in-net-core-using-lambda-and-entity-framework-core/ [Accessed 31 Aug. 2023].
+wadepickett (2023). Tutorial: Create a web API with ASP.NET Core. [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio [Accessed 31 Aug. 2023].
+jongalloway (2023). Create a web API with ASP.NET Core controllers - Training. [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/training/modules/build-web-api-aspnet-core/ [Accessed 31 Aug. 2023].
+RicoSuter (2022). ASP.NET Core web API documentation with Swagger / OpenAPI. [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-3.1 [Accessed 31 Aug. 2023].
+nishanil (2023). Create microservices with .NET and ASP.NET Core - Training. [online] Microsoft.com. Available at: https://learn.microsoft.com/en-us/training/paths/create-microservices-with-dotnet/ [Accessed 31 Aug. 2023].
+
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+‌
+
+‌
+‌
