@@ -1,0 +1,18 @@
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
+using EcopowerLogisticsAPI.Authentication;
+
+namespace EcopowerLogisticsAPI.Authentication
+{
+    public class EcopowerLogisticsDbContext : IdentityDbContext<ApplicationUser>
+    {
+        public EcopowerLogisticsDbContext(DbContextOptions<EcopowerLogisticsDbContext> options) : base(options)
+        {
+
+        }
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            base.OnModelCreating(builder);
+        }
+    }
+}
