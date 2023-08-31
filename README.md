@@ -54,5 +54,17 @@ As the relational database management system (RDBMS) for the project, MySQL is u
 See reference list document with all the requested references.
 
 # Progress Report
-![image](https://github.com/Tanyaradzwa-Mandizvidza/CMPG-323-Project-2---34486844/assets/141284094/52cdce9c-fd0d-42f4-82df-663345f57724)
+🎈2023-08-23:
+Created Azure Database
+Created a local database
+Connected Local API to Local database
+
+🎈2023-08-28:
+Created Local API
+
+🎈2023-08-31:
+Created and published an API to Azure
+
+
+
 
