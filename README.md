@@ -65,6 +65,7 @@ Created Local API
 🎈2023-08-31:
 Created and published an API to Azure
 
-
+# API URL
+https://ecopowerlogisticsapi20230831033407.azurewebsites.net/
 
 
