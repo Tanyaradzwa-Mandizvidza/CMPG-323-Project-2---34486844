@@ -7,6 +7,11 @@ Master: The stable version of the project will always be found in the master bra
 Feature: Specific features or tasks will have their own feature branches. The develop branch gives rise to multiple feature branches, each of which focuses on a different feature. The feature will be finished and then merged back into the develop branch.
 
 The following information will allow you to use the EcoPower API AND its related report:
+
+Visit the provided GitHub repository to get started with the API. Open it in Visual Studio when you clone the repository to your local computer. To guarantee appropriate communication with the MySQL database, make sure to configure the required database connection settings in the "appsettings.json" file. Customers administration, order processing, and product tracking are just a few of the logistics-related activities that the API's endpoints can handle.
+
+The "Readme.md" file has thorough details about each route, HTTP method, and payload structure and is a good resource for knowledge about the API's endpoints. The creation, reading, updating, and deletion of entities within the database are all covered in this documentation for users. To get a list of customers, for instance, you might navigate to the proper endpoint and issue a GET request. You would make a POST request containing the required payload including the order details to the chosen order endpoint in order to generate a new order. The RESTful principles are also followed while updating and removing entries.
+
 # API Endpoints
 # Customers
 
@@ -42,3 +47,5 @@ Error Handling: Proper error responses are provided for invalid requests.
 Foreign Key Constraints: The API enforces foreign key constraints to maintain data integrity.
 Data Pagination: Some endpoints support pagination to manage large datasets.
 
+# Database information
+As the relational database management system (RDBMS) for the project, MySQL is used to store and manage the data. Data about customers, orders, items, and other entities is saved in the database, which acts as an organized repository. The project's backend API communicates with the MySQL database to carry out a number of actions, including getting customer and order information and adding, modifying, and removing records. Foreign key constraints are used in the database schema to create associations between various entities, preserving the consistency and integrity of the data. Entity Framework is used by the API's controllers to manage transactions, run SQL queries on the MySQL database, and connect to the database.
