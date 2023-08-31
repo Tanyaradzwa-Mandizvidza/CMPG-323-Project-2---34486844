@@ -42,3 +42,5 @@ Error Handling: Proper error responses are provided for invalid requests.
 Foreign Key Constraints: The API enforces foreign key constraints to maintain data integrity.
 Data Pagination: Some endpoints support pagination to manage large datasets.
 
+# Database information
+As the relational database management system (RDBMS) for the project, MySQL is used to store and manage the data. Data about customers, orders, items, and other entities is saved in the database, which acts as an organized repository. The project's backend API communicates with the MySQL database to carry out a number of actions, including getting customer and order information and adding, modifying, and removing records. Foreign key constraints are used in the database schema to create associations between various entities, preserving the consistency and integrity of the data. Entity Framework is used by the API's controllers to manage transactions, run SQL queries on the MySQL database, and connect to the database.
