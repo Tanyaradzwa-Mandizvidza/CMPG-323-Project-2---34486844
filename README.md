@@ -8,7 +8,37 @@ Feature: Specific features or tasks will have their own feature branches. The de
 
 The following information will allow you to use the EcoPower API AND its related report:
 # API Endpoints
-Get
-Post
-Put
-Delete
+# Customers
+
+GET /api/Customers`: Retrieve all customer entries from the database.
+GET /api/Customers/{id}`: Retrieve a single customer based on the provided ID.
+POST /api/Customers`: Create a new customer entry.
+PUT /api/Customers/{id}`: Update an existing customer entry.
+DELETE /api/Customers/{id}`: Delete an existing customer entry.
+
+# Orders
+
+GET /api/Orders`: Retrieve all order entries from the database.
+GET /api/Orders/{id}`: Retrieve a single order based on the provided ID.
+GET /api/Orders/Customer/{customerId}`: Retrieve all orders for a specific customer.
+POST /api/Orders`: Create a new order entry.
+PUT /api/Orders/{id}`: Update an existing order entry.
+DELETE /api/Orders/{id}`: Delete an existing order entry.
+
+# Products
+
+GET /api/Products`: Retrieve all product entries from the database.
+GET /api/Products/{id}`: Retrieve a single product based on the provided ID.
+GET /api/Products/Order/{orderId}`: Retrieve all products for a specific order.
+POST /api/Products`: Create a new product entry.
+PUT /api/Products/{id}`: Update an existing product entry.
+DELETE /api/Products/{id}`: Delete an existing product entry.
+
+# Additional Features
+
+Role-based Authentication: The API supports role-based authentication using JSON Web Tokens (JWT).
+Data Validation: Input data is validated to ensure integrity and consistency.
+Error Handling: Proper error responses are provided for invalid requests.
+Foreign Key Constraints: The API enforces foreign key constraints to maintain data integrity.
+Data Pagination: Some endpoints support pagination to manage large datasets.
+
